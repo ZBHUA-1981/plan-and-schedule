@@ -1,4 +1,4 @@
-# plan-and-schedule
+```mermaid
 gantt
     title 2026年各城市赛事运营甘特图
     dateFormat YYYY-MM-DD
@@ -30,3 +30,4 @@ gantt
     section 临沧市
     第一季 :lc1, 2026-01-03, 58d
     第二季 :lc2, 2026-06-01, 93d
+```
